@@ -1,1 +1,1 @@
-I am a PhD student at The University of Hong Kong, advised by Prof. Chenhong Peng. My current research focuses on social safety nets, administrative burden, and subjective well-being.
+I am a PhD student at The University of Hong Kong with research interests in public assistance programs, administrative burden, and street-level bureaucracy. My current research explores how program design and individual resources influence perceived adminsitrative burden of citizens.
