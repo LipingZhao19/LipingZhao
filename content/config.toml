@@ -21,6 +21,8 @@ orcid = "https://orcid.org/0009-0001-4425-4139"
 [features]
 # Show a like button on the about page
 enable_likes = false
+show_bibtex_button = false
+
 
 # Display all subpages on a single page
 enable_one_page_mode = false
