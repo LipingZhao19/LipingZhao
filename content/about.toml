@@ -7,6 +7,13 @@ research_interests = [
   "Administrative burden"
 ]
 
+
+[author]
+name = "Liping Zhao"
+title = "PhD Student"
+avatar = "/me.JPEG" 
+
+
 [[sections]]
 id = "about"
 type = "markdown"
