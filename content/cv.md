@@ -8,6 +8,8 @@
 
 
 ## Conference Presentaions
+**Zhao, L.P.**, Peng, C.H. (Oct. 2025). Processing Time, Application Assistance and Welfare Applicants’
+Administrative Burden: Evidence from a Survey Experiment in China. 2025 APPAM Fall Research Conference, Seattle, US
 
 **Zhao, L.P.**, Peng, C.H. (July 2025). Processing Time, Application Assistance and Welfare Applicants’
 Administrative Burden: Evidence from a Survey Experiment in China. Social Policy Association and
