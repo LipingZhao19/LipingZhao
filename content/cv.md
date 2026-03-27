@@ -1,26 +1,23 @@
 ## Education
 
-**The University of Example**, PhD in Natural Science, *2025 - Present*
-- Research focus: Mathematical Principles of Natural Philosophy
-- Supervisor: Prof. Advisor One and Dr. Advisor Two
+**The University of Hong Kong**, PhD in Social Policy, *2022 - Present*
 
-**The University of Example**, BSc in Natural Science, *2021 - 2025*
-- Graduated with First Class Honours
+**Sun Yat-sen University**, Master’s in Social Security, *2019 - 2022*
 
-## Experience
+**Central South University**, Bachelor’s in Labour and Social Security, *2015 - 2019*
 
-**Example Role**
-Company/Institution
-*2023 - 2024*
-- Description of key responsibilities and achievements.
-- Utilized skills to solve problems.
+
+## Conference Presentaions
+
+**Zhao, L.P.**, Peng, C.H. (July 2025). Processing Time, Application Assistance and Welfare Applicants’
+Administrative Burden: Evidence from a Survey Experiment in China. Social Policy Association and
+East Asian Social Policy Research Network Joint Annual Conference, York, UK
+
+**Zhao, L.P.**, Gao, S.Y., Peng, C.H. (June 2024). Welfare Regimes and Subjective Well-being: A Systematic Review. Social Policy Association and East Asian Social Policy Research Network Joint Annual
+Conference, Kyoto, Japan
+
 
 ## Skills
 
-- **Programming:** Python, C++, MATLAB, LaTeX
-- **Data Analysis:** Pandas, NumPy, SciPy
-- **Languages:** English (Native), French (Fluent)
-
-## Awards & Honors
-
-- **First Prize in Example Competition** - Committee of Example (*2024*)
+- **Data Analysis:** R, Stata
+- **Languages:** Chinese (Native), English (Fluent)
