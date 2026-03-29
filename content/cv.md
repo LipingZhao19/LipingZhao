@@ -6,6 +6,9 @@
 
 **Central South University**, Bachelor’s in Labour and Social Security, *2015 - 2019*
 
+## Publications
+Gao, S., & **Zhao, L.** (2026). Tradition and transition: social media evidence on fertility attitudes and gender differences in China. Chinese Sociological Review, 1-33.
+
 
 ## Conference Presentaions
 **Zhao, L.P.**, Peng, C.H. (Oct. 2025). Processing Time, Application Assistance and Welfare Applicants’
